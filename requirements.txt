@@ -1,0 +1,6 @@
+requests
+google.cloud
+google-cloud-secret-manager
+cryptography==3.4.6
+msal==1.9.0
+google-cloud-logging
